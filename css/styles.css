@@ -139,3 +139,15 @@ a.custom-card:hover {
 .checked {
   color: orange;
 }
+
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  width: 170px;
+}
+
+#mover {
+  text-align: right;
+}
+
